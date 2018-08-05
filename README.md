@@ -25,10 +25,9 @@ To get started developing right away:
     ├── App.js # This is the root of your app. Contains static HTML right now.
     ├── App.test.js # Used for testing. Provided with Create React App. Testing is encouraged, but not required.
     ├── BooksAPI.js # A JavaScript API for the provided Udacity backend. Instructions for the methods are below.
-    ├── Book.js # Show right book.
+    ├── Book.js # Book Component.
     ├── BookShelf.js # Move book to the shelf user choosed.
     ├── Search.js # Search books.
-    ├── Header.js # Show the header when needed.
     ├── icons # Helpful images for your app. Use at your discretion.
     │   ├── add.svg
     │   ├── arrow-back.svg
